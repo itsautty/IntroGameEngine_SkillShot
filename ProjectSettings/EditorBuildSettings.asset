@@ -6,19 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/Scenes/MainMenu_AutumnB.unity
     guid: 43c4487ec4f5d8643b42f42963b79ecf
   - enabled: 1
-    path: Assets/Scenes/Level_01.unity
+    path: Assets/Scenes/Level_01_AutumnB.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Level_02.unity
+    path: Assets/Scenes/Level_02_AutumnB.unity
     guid: 47a15b0e0f4e71b498519153ccc70662
   - enabled: 1
-    path: Assets/Scenes/Level_03.unity
+    path: Assets/Scenes/Level_03_AutumnB.unity
     guid: cb72925719a235648835ed9652b3fb1b
   - enabled: 1
-    path: Assets/Scenes/Level_04.unity
+    path: Assets/Scenes/Level_04_AutumnB.unity
     guid: 781815e86fd28fc44a387b56f6a1d1d9
   - enabled: 1
     path: Assets/Scenes/Level_05.unity
